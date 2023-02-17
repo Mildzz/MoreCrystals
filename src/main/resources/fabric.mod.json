@@ -19,9 +19,6 @@
           "net.mildzz.MoreCrystals"
 		]
 	},
-	"mixins": [
-		"more-crystals.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.14.13",
 		"minecraft": "~1.19.3",

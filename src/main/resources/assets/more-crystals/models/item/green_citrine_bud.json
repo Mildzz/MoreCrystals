@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more-crystals:block/green_citrine_bud"
+  },
+  "alpha": true
+}

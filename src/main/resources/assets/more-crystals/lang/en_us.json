@@ -1,5 +1,21 @@
 {
   "block.more-crystals.clear_quartz": "Clear Quartz",
+  "block.more-crystals.clear_quartz_tower": "Clear Quartz Tower",
+  "block.more-crystals.clear_quartz_bud": "Clear Quartz Bud",
   "block.more-crystals.obsidian": "Obsidian",
+  "block.more-crystals.obsidian_tower": "Obsidian Tower",
+  "block.more-crystals.obsidian_bud": "Obsidian Bud",
+  "block.more-crystals.blue_flourite": "Blue Flourite",
+  "block.more-crystals.blue_flourite_tower": "Blue Flourite Tower",
+  "block.more-crystals.blue_flourite_bud": "Blue Flourite Bud",
+  "block.more-crystals.green_citrine": "Green Citrine",
+  "block.more-crystals.green_citrine_tower": "Green Citrine Tower",
+  "block.more-crystals.green_citrine_bud": "Green Citrine Bud",
+  "block.more-crystals.opalite": "Opalite",
+  "block.more-crystals.opalite_tower": "Opalite Tower",
+  "block.more-crystals.opalite_bud": "Opalite Bud",
+  "block.more-crystals.rose_quartz": "Rose Quartz",
+  "block.more-crystals.rose_quartz_tower": "Rose Quartz Tower",
+  "block.more-crystals.rose_quartz_bud": "Rose Quartz Bud",
   "itemgroup.crystals": "More Crystals"
 }
